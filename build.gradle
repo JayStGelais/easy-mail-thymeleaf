@@ -61,7 +61,7 @@ bintray {
 	publications = ["mavenJava"]
 	pkg {
 		repo = "main"
-		name = project.rootProject.name
+		name = "easy-mail-thymeleaf"
 		licenses = ["Apache-2.0"]
 	}
 }
